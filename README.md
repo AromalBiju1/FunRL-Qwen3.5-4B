@@ -17,7 +17,7 @@ Evaluated on BFCL's `parallel` category (multi-call prompts) — **never seen du
 
 More than double, on genuinely unseen, harder task structure — suggests the training generalized rather than memorized.
 
-**Caveats:** small eval set, custom scorer (not the official BFCL harness), LoRA adapter rather than a full fine-tune. Directional result, not a formal benchmark claim.
+**Caveats:** small training set and small eval set by design (free T4, one day) — custom scorer (not the official BFCL harness), LoRA adapter rather than a full fine-tune. Directional result, not a formal benchmark claim.
 
 ## Approach
 
